@@ -5,7 +5,9 @@ permalink: /projects/happy-walrus/
 ---
 *Ramiro Cadavid, Errett Hobbs, Nach Mohan, Renzee Reyes*
 
-**[Product demo](https://drive.google.com/file/d/1U6MISQ0XlrNBxabFZBOkrT98S5rSFfcM/view?usp=sharing)**
+*[Product demo](https://drive.google.com/file/d/1U6MISQ0XlrNBxabFZBOkrT98S5rSFfcM/view?usp=sharing)*
+
+*[GitHub project](https://github.com/ramirocadavid/happy-walrus)*
 
 A computer vision app that helps parents identify and mitigate kitchen hazards
 
@@ -40,7 +42,7 @@ The process for obtaining annotated images to train the models that power Happy 
 
 ![Data pipeline](/assets/images/inputs-pipeline.png)
 
-### Performance metric
+### Performance metrics
 
 We selected Mean Average Precission (mAP) as performance metric to account for the object detector's model's dual functions to:
 1. Localize objects with as tight a bounding box as possible, and

@@ -3,9 +3,9 @@ layout: page
 title: "The Askeladden Algorithm"
 permalink: /projects/askeladden-algorithm/
 ---
-**Ramiro Cadavid, Anna Jacobson, Laura Pintos**
+*Ramiro Cadavid, Anna Jacobson, Laura Pintos*
 
-**Published in [Medium](https://medium.com/towards-data-science/the-askeladden-algorithm-10859c349fc9)**
+*Published in [Medium](https://medium.com/towards-data-science/the-askeladden-algorithm-10859c349fc9)*
 
 A machine learning project to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets.
 

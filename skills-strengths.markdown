@@ -15,8 +15,9 @@ Statistics | Exploratory data analysis, research design, probability, sampling, 
 Data visualization and business intelligence | Tableau, Power BI, Matplotlib, Excel
 Code management | Git/GitHub/GitLab, Jupyter Notebooks 
 Platforms | Windows, Linux, Bash
-Software/product development methodology | Agile, human centered design
+Software/product development methodology | Agile, design thinking, human centered design
 General data science skills | Data Science, Machine Learning, Data Analysis, Deep Learning, Artificial Intelligence, Programming, Data Mining, Data Cleaning, Data Structures, Algorithms, Data Modeling, Predictive Modeling, Cloud Computing, Business Intelligence, Object Oriented Programming, 
+Languages | Spanish, English
 
 ## Professional skills
 
