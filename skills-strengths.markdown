@@ -7,7 +7,7 @@ permalink: /skills-strengths/
 ## Technical Competencies 
 
 Programming | Python (NumPy, Pandas, Matplotlib, Scikit-learn, PySpark), R, SQL, Java, JavaScript
-Cloud computing | Amazon Web Services (AWS), Google Cloud Platform (GCP), IBM Cloud, DigitalOcean, Salesforce
+Cloud | Amazon Web Services (AWS), Google Cloud Platform (GCP), IBM Cloud, DigitalOcean, Salesforce, Google Analytics
 Databases/data engineer | MySQL, SQL Server, Docker, Kubernetes
 Distributed frameworks | Hadoop, HDFS, Spark, PySpark, AWS EMR, AWS EMR Studio
 Machine Learning | Supervised learning (neural networks, linear and logistic regression, K-nearest neighbors, Naïve Bayes, support vector machines, decision trees, random forests), unsupervised/self-supervised learning (K-means, Gaussian mixture models, hierarchical clustering, PCA)

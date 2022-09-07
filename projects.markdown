@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## The Askeladden Algorithm
 
-A machine learning project to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets ([read more...](/projects/askeladden))
+A machine learning project to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets ([read more...](/projects/askeladden-algorithm))
 
 <img class="left" width="400" src="/assets/images/twitter-troll.jpg"> 
 
