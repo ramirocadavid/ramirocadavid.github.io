@@ -5,8 +5,6 @@ permalink: /projects/happy-walrus/
 ---
 *Ramiro Cadavid, Errett Hobbs, Nach Mohan, Renzee Reyes*
 
-*[Product demo](https://drive.google.com/file/d/1U6MISQ0XlrNBxabFZBOkrT98S5rSFfcM/view?usp=sharing)*
-
 *[GitHub project](https://github.com/ramirocadavid/happy-walrus)*
 
 A computer vision app that helps parents identify and mitigate kitchen hazards
@@ -15,7 +13,7 @@ Happy Walrus is an easy-to-use babyproofing app that highlights common kitchen h
 
 This container contains only the files that were part of the training and evaluation of the modelos that power the Happy Walrus application. The image below links to the demo presentation of the Happy Walrus app.
 
-[![App](/assets/images/happy-walrus-demo.png)](https://drive.google.com/file/d/1U6MISQ0XlrNBxabFZBOkrT98S5rSFfcM/view)
+[![App](/assets/images/happy-walrus-demo.png)](https://youtu.be/_TbTQBG3_zU)
 
 ## Application
 
