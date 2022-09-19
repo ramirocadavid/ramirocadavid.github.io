@@ -31,7 +31,7 @@ To define the final model that was trained in the full dataset, we tested differ
 
 <img src="/assets/images/askeladden-models.jpg" width="900" class="center">
 
-The two models with the highest performance were logistic regression with bigram feature extraction and an ensemble of multiple representations. Even though the latter had a slightly higher performance, the former is much more parsimonious, has faster training and inference times and is much more interpretable. For this reason, we selected the logistic regression to tune its hyperparameters more finely, obtaining a higher performance than its previous version.
+The two models with the highest performance were logistic regression with bigram feature extraction and an ensemble of multiple representations. Even though the latter had a slightly higher performance, the former is much more parsimonious, has faster training and inference times and is more interpretable. For this reason, we selected the logistic regression and further tuned its hyperparameters, obtaining a higher performance than its previous version.
 
 <img src="/assets/images/askeladden-final-model.jpg" width="900" class="center">
 

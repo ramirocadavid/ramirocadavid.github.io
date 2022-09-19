@@ -52,7 +52,7 @@ Furthermore, mAP balances false positives against false negatives -all things be
 
 To train the app's underlying models, we selected a Faster R-CNN detection pipeline with a different network architectures using TensorFlow Object Detection API in Docker to quickly experiment with these different configurations.
 
-Faster R-CNN with a ResNet101 feature extractos gave the best combination of mAP and inference time.
+Faster R-CNN with a ResNet101 feature extractor gave the best combination of mAP and inference time.
 
 ![Models results](/assets/images/resnet101.png)
 
@@ -72,7 +72,7 @@ In the future, the models that power Happy Walrus could be further improved to,
 - Highlight easy-to-reach objects
 - Expand to address other rooms
 - Incorporate user feedback on model’s performance
-- Package as mobile app (works on mobile web right now!)
+- Package as mobile app (although its current version is web responsive)
 
 # Skills and Tools
 

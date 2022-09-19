@@ -7,7 +7,7 @@ layout: home
 
 ## Projects
 
-Sample of the [projects](/projects/) outside of work that I've worked on the last couple of years.
+Sample of [projects](/projects/) outside of work that I've done on in the last couple of years.
 
 <img style="float:left" width="400" src="/assets/images/twitter-hacker.jpg"> | [The Askeladden Algorithm](/projects/askeladden-algorithm) | A machine learning project to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets
 <img style="float:left" width="400" src="/assets/images/happy-walrus.jpg"> | [Happy Walrus](/projects/happy-walrus) | A computer vision app that helps parents identify and mitigate kitchen hazards
